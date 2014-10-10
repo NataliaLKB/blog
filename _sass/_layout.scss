@@ -17,8 +17,17 @@
     weight: 40px;
 }
 
-.menuitem{
-    padding: 0px 25px 0px 10px;
+@media (min-width: 768px){
+    .navbar-nav{
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+        float:none;
+    }
+}  
+
+
+.navbar-nav a {
     color: $grey-color;
     font-family: arial, san-serif;
     font-size: 90%;

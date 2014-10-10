@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day One - Ready, Set, Go!"
+permalink: /dayone/
+categories: jekyll update
+---
+
+Get your towels because it is getting wet! What are all these words: Git, GitHub, Trello, Nitrous, Jekyll, Mocha, Supertest, Markdown… Lets start somewhere then – why not by creating a logo! After deciding on our team roles, name and logo, we created a sketch of what we want our website to look like. Isn’t it beautiful (see above…hopefully)? Next step would be translating these into User stories in order for our developers to understand what to do. After some clarifications of issues concerning these, we are now ready to present our Trello board. Good start! 
+
+<img id="coffee" src="https://slack-files.com/files-tmb/T02KHEYNR-F02KV8VGA-d40aea/coffee_360.png" /> 

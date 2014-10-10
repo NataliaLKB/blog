@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Day Two - Let's set the direction!"
+permalink: /daytwo/
+categories: jekyll update
+---
+The day begins with a short scrum reflecting on what has happened the day before and what to tackle today. Most part of the team got to learn a lot more about GitHub and Git as well as Nitrous. Emma focused mainly on Supertest and Mocha and the Testing procedure. After setting up Jekyll and exploring different editors such as Sublime Text and JSBin, there was a general consensus to use Nitrous to keep things simple(r). Too technical, don’t you think? Let’s decide on the fun stuff: pictures, logos, colours etc.! The day was rounded off by a nice conversation on where we want to go and what we can do with this course and what options have shown to work in the past! I think on behalf of all 15 students: thank you so much, amazing initiative Camden Collective! 
+
+<img src="https://c1.staticflickr.com/3/2326/2378867408_4cc90791d6_z.jpg?zz=1" />

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day Three - It looks like a website, I think"
+permalink: /daythree/
+categories: jekyll update
+---
+
+“I have seen teams in the past: Week one, their faces frown but soon they light up. Keep going guys, keep going, you will enjoy it a lot by the end of it!” (Mo from Clime-It Brothers, Camden Collective). Even though it seems like a lot for the week, we are getting through quite well (at least we think so…). The support of the previous students but also Dan is brilliant and extremely helpful! Some testing works, pushing to GitHub works, changing stuff from Nitrous and then pushing again works and CSS works (kinda). Doesn’t this sound great? Good team effort!
