@@ -4,3 +4,5 @@ title:  "NeapFeed: get the latest from Twitter and the Collective Academy"
 permalink: /neapfeed/
 categories: jekyll update
 ---
+
+<embed width="100%" height="500px" src="/blog/twitterProject/index.html">
