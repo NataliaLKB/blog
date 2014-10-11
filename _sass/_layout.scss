@@ -3,9 +3,7 @@
  */
 
 #top {
-    div {
-        background-color: $grey-color-light;
-    }
+    background-color: $grey-color-light;
     #smedia {
         height: 25px;
         width: 25x;
@@ -39,9 +37,9 @@
 }
 
 
-.site-header {
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+#menu {
+    border-bottom: 2px solid $grey-color-light;
+    min-height: 40px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -127,7 +125,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
