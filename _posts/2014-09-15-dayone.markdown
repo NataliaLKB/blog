@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Day One - Ready, Set, Go!"
+title:  "Day One"
+description: "Ready, Set, Go!"
+img: "https://slack-files.com/files-tmb/T02KHEYNR-F02KV8VGA-d40aea/coffee_360.png"
 permalink: /dayone/
 categories: jekyll update
 ---

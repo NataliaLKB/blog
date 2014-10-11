@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "NeapFeed: get the latest from Twitter and the Collective Academy"
+title:  "NeapFeed"
+description: "Get the Latest from Twitter and the Collective Academy"
 permalink: /neapfeed/
 categories: jekyll update
 ---

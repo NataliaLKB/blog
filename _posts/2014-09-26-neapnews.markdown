@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "NeapNews: The Guardian News Anyone?"
+title:  "NeapNews"
+description: "The Guardian News Anyone?"
 permalink: /neapnews/
 categories: jekyll update
 ---
