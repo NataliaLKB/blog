@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "NeapNews: The Guardian News Anyone?"
-permalink: /neapnews
+permalink: /neapnews/
 categories: jekyll update
 ---
 
-
-<embed width="100%" height="500px" src="/blog/neapnews/index.html">
+<embed width="100%" height="500px" src="/blog/guardian/index.html">
