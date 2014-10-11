@@ -269,3 +269,88 @@
         }
     }
 }
+
+/**
+ * PLAY
+ */
+
+.imgBox#mint {
+  background: url('/blog/images/posts/mint.jpg'); 
+  height: 244px;
+  width: 244px;
+}
+
+.imgBox#mint:hover {
+  background: url('/blog/images/posts/penguin_mint.jpg'); 
+  height: 244px;
+  width: 244px;
+  transition: 500ms, ease-in;
+  
+}
+
+.imgBox#pepper {
+  background: url('/blog/images/posts/pepper.jpg'); 
+  height: 244px;
+  width: 244px;
+}
+
+.imgBox#pepper:hover {
+  background: url('/blog/images/posts/penguin_pepper.jpg'); 
+  height: 244px;
+  width: 244px;
+  transition: 500ms, ease-in;
+  
+.imgBox#pepper:hover ~ .herb-text {
+    opacity: 0.5;
+  color: black;
+  }
+  
+  .herb-text#pepper {
+    opacity: 1;
+    
+  }
+}
+
+.imgBox#eggplant {
+  background: url('/blog/images/posts/eggplant.jpg'); 
+  height: 244px;
+  width: 244px;
+}
+
+.imgBox#eggplant:hover {
+  background: url('/blog/images/posts/penguin_eggplant.jpg'); 
+  height: 244px;
+  width: 244px;
+  transition: 500ms, ease-in;
+  
+  
+  
+}
+
+ul.play {
+  list-style: none;
+  
+}
+
+li {
+  list-style: none;
+  
+}
+
+div.inner-text {
+  margin: 0 auto 0px auto;
+}
+
+.herb-text {
+ width: 240px; 
+  font-size: 12px; 
+
+
+ 
+}
+
+li.herbs {
+  width: 244px; 
+  display: inline-block;
+  
+}
