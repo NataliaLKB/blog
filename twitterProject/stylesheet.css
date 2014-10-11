@@ -1,0 +1,58 @@
+#headerbox #pic img {
+	background-color: #28a9e2;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+#content h4 {
+	font-family:'Bad Script', cursive, san-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 150%;
+	color: #424242;
+}
+
+#content p {
+	font-family: 'Special Elite', ‘Courier New’, Courier, Monaco, san-serif;
+	font-weight: bold;
+	text-align: left;
+	font-size: 80%;
+	color: #BDBDBD;
+}
+
+#content .thumbnail {
+	box-shadow: 13px 11px 6px 0px rgba(50, 50, 50, 0.7);
+}
+
+#content .thumbnail:hover {
+	transform: scale(1.10);
+	box-shadow: 19px 16px 6px 0px rgba(50, 50, 50, 0.7);
+}
+
+#content .caption {
+	border: 1px #FAFAFA solid;
+	padding: 0px;
+}
+
+.thumbnail {
+	padding: 15px 15px 0px 15px;
+	margin: 40px 10px 10px 10px;
+}
+
+.thumbnail #outer {
+	position:relative;
+    padding-bottom:100%;
+    margin: auto;
+    overflow:hidden;
+    border-radius: 5px;
+}
+
+.thumbnail img {
+	position:absolute;
+	left: -9999px;
+	top: -9999px;
+	right: -9999px;
+	bottom: -9999px;
+	margin: auto;
+}
+
