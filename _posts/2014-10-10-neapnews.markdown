@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 
-<embed width="100%" height="500px" src="/blog/work/guardianProject/index.html">
+<embed width="100%" height="500px" src="/blog/neapnews/index.html">
