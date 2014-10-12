@@ -124,6 +124,7 @@
 /**
  * Site footer
  */
+
 .site-footer {
     background-color: $grey-color-light;
 }
@@ -161,6 +162,7 @@
 /**
  * Page content
  */
+
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -189,10 +191,10 @@
 }
 
 
-
 /**
  * Posts
  */
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -294,8 +296,6 @@
   width: 244px;
   transition: 500ms, ease-in;
   
-  
-  
 }
 
 ul.play {
@@ -316,8 +316,6 @@ div.inner-text {
  width: 240px; 
   font-size: 12px; 
 
-
- 
 }
 
 li.herbs {
@@ -325,3 +323,17 @@ li.herbs {
   display: inline-block;
   
 }
+
+/**
+ * HOME
+ */
+
+.post-list {
+    .postimg {
+        border-radius: 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto 
+    }
+}
+
