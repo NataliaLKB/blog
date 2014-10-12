@@ -1,6 +1,6 @@
 # Site settings
 title: NeapBlog
-email: your-email@domain.com
+email: natalialeebaltazar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Three girls, a guy, and a pizza place
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
