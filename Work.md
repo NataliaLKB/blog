@@ -19,7 +19,9 @@ permalink: /work/
           </h2>
           <p>{{ post.description }}</p>
           <div class="postimg-outer">
-            <img class="postimg" src="{{ post.img }}"/> 
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              <img class="postimg" src="{{ post.img }}"/> 
+            </a>
           </div>
         </li>
         {% endfor %}
