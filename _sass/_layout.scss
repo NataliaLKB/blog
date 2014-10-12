@@ -366,3 +366,35 @@ li.herbs {
     }
 }
 
+/**
+ * HOME
+ */
+
+ .thumbnail {
+    padding: 15px 15px 0px 15px;
+    margin: 40px 10px 10px 10px;
+    #name {
+        color: $grey-color-dark;
+    }
+    #icecream {
+        color: $grey-color-dark;
+    }
+    #bio {
+        color: $grey-color;
+    } 
+    #img {
+        position:relative;
+        padding-bottom:100%;
+        margin: auto;
+        overflow:hidden;
+        border-radius: 5px;
+        img {
+            position:absolute;
+        left: -9999px;
+        top: -9999px;
+        right: -9999px;
+        bottom: -9999px;
+        margin: auto;
+        }
+    }
+}
