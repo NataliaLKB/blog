@@ -28,6 +28,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
+ 
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -40,6 +41,7 @@ ul, ol, dl, figure,
 /**
  * Images
  */
+
 img {
     max-width: 100%;
     vertical-align: middle;
@@ -50,6 +52,7 @@ img {
 /**
  * Figures
  */
+
 figure > img {
     display: block;
 }
@@ -79,15 +82,12 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
-}
-
 
 
 /**
  * Links
  */
+
 a {
     color: $brand-color;
     text-decoration: none;
@@ -125,6 +125,7 @@ blockquote {
 /**
  * Code formatting
  */
+
 pre,
 code {
     font-size: 15px;
@@ -153,6 +154,7 @@ pre {
 /**
  * Wrapper
  */
+
 .wrapper {
     margin-right: auto;
     margin-left: auto;
@@ -171,6 +173,7 @@ pre {
 /**
  * Clearfix
  */
+
 %clearfix {
 
     &:after {
@@ -185,6 +188,7 @@ pre {
 /**
  * Icons
  */
+
 .icon {
 
     > svg {

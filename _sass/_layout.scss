@@ -124,12 +124,21 @@
 /**
  * Site footer
  */
-.site-footer {
+
+#footcol8 {
+    padding-right: 0px;
+    padding-left: 0px;
     background-color: $grey-color-light;
 }
 
 .footer-heading {
     font-size: 18px;
+}
+
+.site-footer {
+    .wrapper {
+        padding: 0px 0px 0px 0px;
+    }
 }
 
 .footer-col-wrapper {
@@ -161,12 +170,15 @@
 /**
  * Page content
  */
+
 .page-content {
     padding: $spacing-unit 0;
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 200%;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: #383838;
 }
 
 .post-list {
@@ -189,10 +201,10 @@
 }
 
 
-
 /**
  * Posts
  */
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -294,8 +306,6 @@
   width: 244px;
   transition: 500ms, ease-in;
   
-  
-  
 }
 
 ul.play {
@@ -316,8 +326,6 @@ div.inner-text {
  width: 240px; 
   font-size: 12px; 
 
-
- 
 }
 
 li.herbs {
@@ -325,3 +333,36 @@ li.herbs {
   display: inline-block;
   
 }
+
+/**
+ * HOME
+ */
+
+.post-list {
+    .post-link {
+        font-family: arial, san-serif;
+        font-weight: bold;
+        text-decoration: none;
+        color: $grey-color-dark;
+    }
+    p {
+        font-family: arial, san-serif;
+        color: $grey-color;
+    }
+    .postimg-outer {
+        position: relative;
+        height: 300px;
+        width: 650px;
+        overflow: hidden;
+    }
+    .postimg {
+        position: absolute;
+        min-width:100%;
+        margin: auto;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+}
+
