@@ -1,0 +1,13 @@
+---
+layout: post
+category: play
+title:  "The Garden"
+description: "Yum..."
+img: "/blog/images/posts/penguin_eggplant.jpg"
+permalink: /eggplant/
+categories: jekyll update
+---
+
+Garden got aubergine? From my man Yotam: put on lit gas hob until burnt. Scoop insides, drain. Add: lemon, olive oil, parsley, garlic, salt n pepa.
+
+<img id="eggplant" src="/blog/images/posts/penguin_eggplant.jpg"/> 
