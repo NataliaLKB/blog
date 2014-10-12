@@ -1,5 +1,6 @@
 ---
 layout: post
+category: work
 title:  "NeapNews"
 description: "The Guardian News Anyone?"
 img: "/blog/guardian/neapnews.jpg"

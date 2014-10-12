@@ -1,5 +1,6 @@
 ---
 layout: post
+category: work
 title:  "Day Three"
 description: "It looks like a website, I think"
 img: "https://pbs.twimg.com/media/Bxk_-SgCEAAIhgQ.jpg:large"

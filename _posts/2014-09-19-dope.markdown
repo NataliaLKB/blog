@@ -1,0 +1,13 @@
+---
+layout: post
+category: play
+title:  "Mint"
+description: "So fresh, so clean"
+img: "/blog/images/posts/penguin_mint.jpg"
+permalink: /mint/
+categories: jekyll update
+---
+
+Ain't nobody dope as me, I'm ... so fresh so clean (So fresh and so clean clean). That's becuase I use our garden to make fresh mint tea. I do it daily. Aint a big deal. 
+
+<img id="mint" src="/blog/images/posts/penguin_mint.jpg"/>

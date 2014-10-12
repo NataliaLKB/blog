@@ -1,5 +1,6 @@
 ---
 layout: post
+category: work
 title:  "Day Two"
 description: "Let's set the direction!"
 img: "https://c1.staticflickr.com/3/2326/2378867408_4cc90791d6_z.jpg?zz=1"

@@ -257,7 +257,7 @@
  * PLAY
  */
 
-.imgBox#mint {
+/*.imgBox#mint {
   background: url('/blog/images/posts/mint.jpg'); 
   height: 244px;
   width: 244px;
@@ -269,9 +269,9 @@
   width: 244px;
   transition: 500ms, ease-in;
   
-}
+}*/
 
-.imgBox#pepper {
+/*.imgBox#pepper {
   background: url('/blog/images/posts/pepper.jpg'); 
   height: 244px;
   width: 244px;
@@ -292,7 +292,7 @@
     opacity: 1;
     
   }
-}
+}*/
 
 .imgBox#eggplant {
   background: url('/blog/images/posts/eggplant.jpg'); 
@@ -376,8 +376,12 @@ li.herbs {
     #name {
         color: $grey-color-dark;
     }
+
     #icecream {
-        color: $grey-color-dark;
+        color: #FE2E64;
+        span {
+            color: $grey-color-dark;
+        }
     }
     #bio {
         color: $grey-color;
@@ -387,14 +391,14 @@ li.herbs {
         padding-bottom:100%;
         margin: auto;
         overflow:hidden;
-        border-radius: 5px;
         img {
             position:absolute;
-        left: -9999px;
-        top: -9999px;
-        right: -9999px;
-        bottom: -9999px;
-        margin: auto;
+            height: 100%;
+            left: -9999px;
+            top: -9999px;
+            right: -9999px;
+            bottom: -9999px;
+            margin: auto;
         }
     }
 }
